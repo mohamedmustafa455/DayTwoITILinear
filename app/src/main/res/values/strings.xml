@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DayTwoITILinear</string>
+    <string name="red">red</string>
+    <string name="green">green</string>
+    <string name="blue">blue</string>
+    <string name="yellow">ywllow</string>
+    <string name="rowOne">Row One</string>
+    <string name="rowSecond">Row Second</string>
+    <string name="rowTree">Row Tree</string>
+    <string name="rowfour">Row Fourth</string>
+</resources>
